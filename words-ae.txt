@@ -230,7 +230,7 @@ GRASS	Green plants that cover the ground	The grass feels soft.
 GRASSHOPPER	An insect that jumps	The grasshopper hopped away.
 GREAT	Very good	You did a great job!
 GREEN	The color of leaves	The trees are green.
-GREY	A color between black and white	The sky looks grey today.
+GRAY	A color between black and white	The sky looks gray today.
 GROUND	The surface of the earth	The ball fell on the ground.
 GROUP	A number of people together	Our group won the quiz.
 GROW	To become bigger	Flowers grow with sunlight.
@@ -491,7 +491,7 @@ SHIP	A large boat	The ship sails across the sea.
 SHIRT	A piece of clothing for the upper body	Dad ironed his shirt.
 SHOE	Worn on the feet	My shoes are new.
 SHOP	A place to buy things	Mum went to the shop.
-SILVER	A shiny grey metal	The ring is made of silver.
+SILVER	A shiny gray metal	The ring is made of silver.
 SING	To make music with your voice	She likes to sing songs.
 SISTER	A girl in your family	My sister loves painting.
 SIT	To rest on a chair	Please sit down.
