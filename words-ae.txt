@@ -32,7 +32,7 @@ AWAY	Not here	The cat ran away.
 BABY	A very young child	The baby is sleeping.
 BAG	Something to carry things in	I put books in my bag.
 BALL	A round toy	The ball bounced high.
-BALLON	A rubber toy filled with air	The red balloon flew away.
+BALLOON	A rubber toy filled with air	The red balloon flew away.
 BANANA	A long yellow fruit	He ate a ripe banana.
 BEACH	Sand beside the sea	We built castles on the beach.
 BEAUTIFUL	Very pretty	The garden looks beautiful.
@@ -58,7 +58,6 @@ BRIGHT	Giving much light	The sun is bright today.
 BRING	To take something with you	Please bring your bag.
 BROKEN	Not working or damaged	My toy car is broken.
 BROTHER	A male sibling	My brother helps me study.
-BRUSH	A tool for cleaning or painting	I brush my teeth daily.
 BRUSH	To clean or paint	I brush my hair every day.
 BUILD	To make or create	We build houses with bricks.
 BURN	To be on fire	The wood started to burn.
@@ -80,7 +79,6 @@ CIRCLE	A round shape	Draw a big circle on paper.
 CITY	A large town	London is a big city.
 CLASS	A group of students	Our class is very quiet today.
 CLEAN	Free from dirt	Keep your desk clean.
-CLEAN	Without dirt	Wash your hands and keep them clean.
 CLEVER	Quick to learn	She is a clever student.
 CLIMB	To go up	We climb the tree together.
 CLOCK	Shows the time	The clock says it's noon.
@@ -96,19 +94,16 @@ CORNER	Where two lines meet	The cat sat in the corner.
 COW	A farm animal that gives milk	The cow eats grass.
 CRY	To shed tears	The baby started to cry.
 CUP	A small bowl for drinking	She drank tea in a cup.
-CUP	A small drinking vessel	The cup is full of juice.
 CUPBOARD	A place to keep dishes	The cups are in the cupboard.
 CUT	To divide with a knife	Please cut the apple in half.
 DAIRY	A place for milk products	The dairy sells cheese.
 DAISY	A small white flower	She picked a daisy from the field.
 DANCE	Move to music	They dance together happily.
-DANCE	To move with music	They dance at the party.
 DARK	Without light	It's dark outside.
 DATE	A day of the month	What's today's date?
 DAY	A period of 24 hours	Today is a sunny day.
 DEAR	Loved or valued	My dear friend lives nearby.
 DEEP	Far down or low	The lake is very deep.
-DEEP	Going far down	The water is deep here.
 DESK	A table for study or work	My books are on the desk.
 DIE	To stop living	Flowers die without water.
 DINNER	The main meal of the day	We had rice for dinner.
@@ -129,7 +124,6 @@ DREAM	Thoughts or pictures during sleep	I had a funny dream.
 DRESS	Clothes worn by girls or women	She wore a red dress.
 DRINK	To take liquid into your mouth	I drink water every morning.
 DRIVER	A person who drives	The driver stopped the bus.
-DROP	To let fall	Don't drop the eggs.
 DROP	To let something fall	Don't drop your phone.
 DRY	Not wet	The towel is dry now.
 DUCK	A water bird	The duck swims in the pond.
@@ -141,10 +135,8 @@ EARLY	Before the usual time	She wakes up early.
 EARN	To get money by working	He earns some money from chores.
 EARTH	The planet we live on	The Earth moves around the sun.
 EAST	The direction of sunrise	The sun rises in the east.
-EASY	Not difficult	The test was easy for me.
 EASY	Not hard	This puzzle is easy.
 EAT	To chew and swallow food	We eat fruit for health.
-EAT	To take food	Let's eat dinner.
 EDGE	The border or end	The ball rolled to the edge.
 EGG	Food from a hen	I had an egg for breakfast.
 EIGHT	The number after seven	I have eight crayons.
@@ -153,11 +145,9 @@ ELEVEN	One more than ten	He is eleven years old.
 ELSE	Another thing	Do you want anything else?
 EMPTY	Without anything inside	The box is empty.
 END	The final part	We reached the end of the film.
-END	The last part	We reached the end of the road.
 ENERGY	Power to do work	Running needs a lot of energy.
 ENGINE	A machine that moves cars	The engine stopped working.
 ENJOY	To like something	I enjoy watching cartoons.
-ENJOY	To take pleasure	Enjoy your weekend!
 ENOUGH	As much as needed	I have enough pencils.
 ENTER	To go inside	Please enter the room quietly.
 ENVELOPE	A paper cover for letters	She put the card in an envelope.
@@ -167,15 +157,10 @@ EVENT	Something that happens	The school held a big event.
 EVERY	Each one of many	I brush my teeth every day.
 EXAMPLE	A sample or model	Here's an example of a sentence.
 EXIT	A way out	Use the exit door only.
-EYE	Organ of sight	She has blue eyes.
 EYE	The part we see with	Close your eyes to sleep.
-EYE	Used for seeing	She closed one eye.
-FACE	Front part of head	She smiled with her face bright.
 FACE	The front of your head	Wash your face with soap.
-FACE	The front part of the head	Wash your face every morning.
 FALL	To drop down	Don't fall from the swing.
 FAMILY	A group of parents and children	My family eats dinner together.
-FARM	A place where crops grow	We went to a big farm.
 FARM	Land where food is grown	The farmer works on the farm.
 FAST	Moving quickly	The car is very fast.
 FAT	Having extra body weight	The cat is a bit fat.
@@ -188,7 +173,6 @@ FIND	To discover or see something	Can you find your shoes?
 FINE	Good or okay	I'm feeling fine now.
 FINISH	To complete something	Let's finish the homework first.
 FIRE	Hot flames that burn	The fire kept us warm.
-FIRE	Something that burns	The wood caught fire.
 FISH	An animal that lives in water	The fish swims fast.
 FIVE	One more than four	There are five apples in the basket.
 FIX	To repair	Dad will fix my toy.
@@ -203,15 +187,11 @@ FRESH	Newly made or picked	The bread is fresh.
 FRIDAY	The day after Thursday	Friday is my favorite day.
 FRIEND	Someone you like and trust	My best friend lives next door.
 FROG	A small green animal that jumps	The frog hopped into the pond.
-FRUIT	Sweet food from trees or plants	Mango is my favorite fruit.
 FRUIT	Sweet plant food	Bananas are my favorite fruit.
 FULL	Having no space left	The glass is full of milk.
-FUN	Enjoyment	We had fun at the park.
 FUN	Enjoyment or happiness	The party was full of fun.
-GAME	Activity for enjoyment	This board game is fun.
 GAME	An activity for fun	Let's play a game outside.
 GARDEN	A place with plants	We planted roses in the garden.
-GARDEN	Place for flowers	The garden smells lovely.
 GATE	A door in a wall or fence	The gate is open.
 GET	To receive or obtain	Did you get my message?
 GIFT	Something you give or get	I got a gift for my birthday.
@@ -234,7 +214,6 @@ GRAY	A color between black and white	The sky looks gray today.
 GROUND	The surface of the earth	The ball fell on the ground.
 GROUP	A number of people together	Our group won the quiz.
 GROW	To become bigger	Flowers grow with sunlight.
-GROW	To get larger	Plants grow in soil.
 GUESS	To answer without knowing	Can you guess the number?
 GUM	Sweet candy you chew	Don't swallow your chewing gum.
 HAIR	Grows on your head	I brushed my hair.
@@ -245,7 +224,6 @@ HAPPY	Feeling joy	I'm happy to see you.
 HARD	Not soft	The rock is hard.
 HAT	Something you wear on your head	I wore a red hat.
 HEAD	The top part of your body	Wear a cap on your head.
-HEART	A body part that beats	My heart feels strong.
 HEART	The organ that pumps blood	My heart beats fast when I run.
 HEAT	Warmth	The heat from the sun is strong.
 HEAVY	Having much weight	The box is heavy to lift.
@@ -261,7 +239,6 @@ HOPE	To want something to happen	I hope you feel better soon.
 HORSE	A strong animal that runs fast	The horse ran across the field.
 HOT	Having a high temperature	The soup is too hot.
 HOUSE	A building where people live	We live in a small house.
-HOUSE	A place to live	Our house is painted blue.
 HUMAN	A person	Every human needs love.
 HUNDRED	The number 100	There are a hundred students in the school.
 HUNGRY	Wanting food	I'm hungry after the game.
@@ -270,7 +247,6 @@ HURT	To cause pain	I hurt my knee while running.
 ICE	Frozen water	The ice melted in the glass.
 ICE CREAM	Sweet frozen dessert	I love chocolate ice cream.
 ICEBERG	Large floating ice	Ships avoid big icebergs.
-IDEA	A thought	I got an idea for my story.
 IDEA	A thought or plan	That's a great idea!
 IGNORE	To not pay attention	Don't ignore your teacher.
 ILL	Not feeling well	I feel ill today.
@@ -281,14 +257,11 @@ INCREASE	To make more	Please increase the sound.
 INK	Liquid used for writing	The pen has blue ink.
 INSECT	A small animal with six legs	The insect crawled on the leaf.
 INSIDE	Not outside	Stay inside the house.
-INSIDE	The inner part	Stay inside when it rains.
 INSTEAD	In place of something	Let's walk instead of driving.
 INTERESTING	Fun to learn or know	That story is very interesting.
 INTO	To the inside of	The frog jumped into the pond.
-INVITE	To ask kindly	I will invite you to dinner.
 INVITE	To ask someone to come	I invite my friends to my party.
 IRON	A strong metal	The gate is made of iron.
-IRON	Metal or heat tool	She irons her clothes daily.
 ISLAND	Land surrounded by water	We visited a small island.
 ITCH	A small tickling feeling	My arm has an itch.
 ITEM	A single thing	Each item is on sale.
@@ -298,21 +271,18 @@ JANUARY	The first month of the year	School opens in January.
 JAR	A glass container	The jar is full of cookies.
 JEANS	Pants made of denim	He wore blue jeans.
 JOB	Work that someone does	My dad has a good job.
-JOIN	To become part of something	I will join the football team.
 JOIN	To connect	Join the two ends together.
 JOKE	Something funny	He told a funny joke.
 JOURNEY	Going from one place to another	Our journey took two hours.
 JOY	Great happiness	Her face was full of joy.
 JOYFUL	Full of happiness	She has a joyful smile.
 JUICE	Drink made from fruits	She drank orange juice.
-JUICE	Liquid from fruits	Fresh juice is healthy.
 JULY	The seventh month	July is a hot month.
 JUMP	To move off the ground	The boy can jump high.
 JUMPING	Moving up and down quickly	The children are jumping happily.
 JUNE	The sixth month	We travel in June.
 JUNGLE	A forest with many trees	Tigers live in the jungle.
 JUST	Fair or only	I just finished my homework.
-KEEP	To hold or continue	Keep your room clean.
 KEEP	To hold or save	Keep the pen in the box.
 KEY	Used to open locks	I lost my house key.
 KEYBOARD	Used for typing	I use the keyboard to type words.
@@ -328,7 +298,6 @@ KITCHEN	A place to cook food	Mum is in the kitchen.
 KITE	A toy that flies in the sky	The kite went high in the air.
 KITTEN	A baby cat	The kitten is sleeping.
 KNEE	Joint that bends the leg	Bend your knee slowly.
-KNEE	The middle joint of your leg	I hurt my knee yesterday.
 KNIFE	A tool for cutting	Use a knife carefully.
 KNOCK	To hit a door to be heard	Knock before you enter.
 KNOW	To have information	I know the answer.
@@ -336,7 +305,6 @@ LADDER	A tool for climbing	He climbed the ladder safely.
 LADY	A woman	The lady is teaching the kids.
 LAKE	A big water area	We swam in the lake.
 LAMP	A thing that gives light	She switched on the lamp.
-LAMP	Gives light	The lamp is bright.
 LAND	The surface of the earth	The plane landed on the land.
 LARGE	Big in size	They live in a large house.
 LATE	After the right time	Don't be late for class.
@@ -346,17 +314,14 @@ LAZY	Not wanting to work	Don't be lazy in school.
 LEAF	A green part of a plant	A leaf fell from the tree.
 LEAFY	Full of leaves	It's a leafy garden.
 LEARN	To get knowledge	I learn English every day.
-LEG	A part used for walking	My leg feels tired.
 LEG	Part of the body for walking	My leg hurts from running.
 LEMON	A sour yellow fruit	Add lemon to your tea.
 LETTER	A symbol or message	Write a letter to your friend.
 LIBRARY	A place with many books	I borrowed a book from the library.
-LIGHT	Bright and not heavy	This bag is light.
 LIGHT	Opposite of dark	Turn on the light.
 LINE	A mark that joins points	Draw a straight line.
 LION	A large wild cat	The lion roars loudly.
 LISTEN	To hear carefully	Listen to your teacher.
-LITTLE	Small	That's a little puppy.
 LITTLE	Small in size	The little bird flew away.
 LOCAL	Nearby	The local shop sells bread.
 LONG	Having much length	The road is very long.
@@ -435,10 +400,8 @@ OVER	Above something	The plane flew over the city.
 OWL	A bird that flies at night	The owl hoots in the dark.
 OWN	To have something	I own a red bicycle.
 PAINT	To add color	Let's paint the wall blue.
-PAPER	Material for writing	I folded the paper into a plane.
 PAPER	Thin material for writing	Write your name on paper.
 PARENT	A mother or father	Parents love their children.
-PARK	A green area to relax	We had a picnic at the park.
 PARK	A place for play	We play football in the park.
 PATH	A small road	We walked along the path.
 PEN	A tool for writing	I wrote my name with a pen.

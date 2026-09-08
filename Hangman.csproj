@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
-    <ApplicationIcon>hm.ico</ApplicationIcon>
-    <Version>1.1.0</Version>
+    <ApplicationIcon>hm2.ico</ApplicationIcon>
+    <Version>1.1.1</Version>
     <Company>Radish</Company>
     <Product>Hangman</Product>
     <Copyright>© 2026 Radish</Copyright>
@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="hm.ico" />
+    <Content Include="hm2.ico" />
   </ItemGroup>
 
   <ItemGroup>

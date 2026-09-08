@@ -1,9 +1,9 @@
 [Setup]
 AppName=Hangman
-AppVersion=1.1.0
+AppVersion=1.1.1
 DefaultDirName={autopf}\Radish\Hangman
 DefaultGroupName=Radish
-SetupIconFile=hm.ico
+SetupIconFile=hm2.ico
 UninstallDisplayIcon={app}\Hangman.exe
 LicenseFile=LICENSE.txt
 OutputBaseFilename=HangmanSetup
